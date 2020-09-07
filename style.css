@@ -1,0 +1,110 @@
+html {
+    background-color:rgb(197, 194, 194);
+}
+
+.me {
+    width: 300px;
+    float: right;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+
+.clearfix {
+  overflow: auto;
+}
+
+body {
+    margin: 10px auto;
+    padding: 8px;
+    width: 980px;
+    background-color: white;
+	border-radius: 15px;
+}
+header {
+    background-color: rgb(136, 56, 56);
+	display: block;
+	padding: 30px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+.logo {
+	width: 100px;
+}
+.navbar {
+    padding: 1px;
+    background-color: white;
+    margin: 10px;
+}
+.navbar a {
+    display: inline-block;
+    padding: 15px;
+    border: 2px solid rgb(136, 56, 56);
+	text-decoration: none;
+	border-radius: 15px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.navbar a:hover {
+    background-color: rgb(136, 56, 56);
+    color: black;
+}
+
+.navbar a.active {
+    background-color:  rgb(136, 56, 56);
+    color: black;
+  }
+
+footer {
+	padding: 15px;
+    margin: 10px;
+    text-align: right;
+
+}
+
+.alpresor {
+    width: 100px;
+    float: center;
+}
+
+.postnord {
+    width: 100px;
+    float: center;
+}
+
+.jensen {
+    width: 100px;
+    float: center;
+}
+
+.text {
+    margin: 10px;
+}
+
+.textport {
+    text-align: center;
+    margin: 10px;
+}
+
+.textkont {
+    margin: 10px;
+    width: 400px;
+    border: 2px solid rgb(136, 56, 56);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.startbild {
+    width: 500px;
+    border-radius: 15px;
+    margin: 10px;
+    float: left;
+}
+
+.textstart {
+    text-align: right;
+    margin: 10px;
+    padding: 40px;
+}
